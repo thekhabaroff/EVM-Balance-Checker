@@ -7,6 +7,7 @@
 ```text
 EVM Balance Checker
 ├── go.mod
+├── go.sum
 ├── bot.go
 ├── balance.txt
 ├── keys.txt
